@@ -14,7 +14,7 @@ cc-crypto/
 │   └── protocol.lua
 │
 ├── random/
-│   └── csprng.lua
+│   └── csrng.lua
 │
 ├── stub/
 │   ├── cc_file.lua
