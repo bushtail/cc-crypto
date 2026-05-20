@@ -1,8 +1,8 @@
 ---@class sha256
 local sha256 = {}
 
-local bits  = require("ccrypto.util.bits")
-local bytes = require("ccrypto.util.bytes")
+local bits  = require("util.bits")
+local bytes = require("util.bytes")
 
 local BAND = bits.band
 local BXOR = bits.bxor
