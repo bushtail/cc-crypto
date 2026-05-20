@@ -30,7 +30,11 @@ cc-crypto/
 │   ├── buffer.lua
 │   └── bytes.lua
 │
+├── .gitignore
 ├── .luarc.json
-├── filetree.md
+├── FILETREE.md
+├── LICENSE
+├── README.md
+├── cc-crypto.code-workspace
 └── init.lua
 ```
