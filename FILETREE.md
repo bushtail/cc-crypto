@@ -1,5 +1,5 @@
 ```
-ccrypto/
+cc-crypto/
 ├── core/
 │   ├── hkdf.lua
 │   ├── hmac.lua
