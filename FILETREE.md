@@ -32,6 +32,7 @@ cc-crypto/
 │
 ├── .gitignore
 ├── .luarc.json
+├── ENTROPY.md
 ├── FILETREE.md
 ├── LICENSE
 ├── README.md
